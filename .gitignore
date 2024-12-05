@@ -1,0 +1,3 @@
+# all .json files and .csv files
+*.json
+*.csv
